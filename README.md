@@ -11,5 +11,6 @@ Ubuntu distribution Linux
 NodeJS
 GitHub/GitHub Desktop
 
-<h1>,Introduction :<h1>,
+# Introduction
+
 Bienvenue à cette séance de travaux pratiques consacrée à l'exploration et à l'expérimentation dans le domaine passionnant des technologie web Au cours de cette session, vNous aurons l'opportunité de mettre en pratique les concepts théoriques que nous avons appris en classe, de développer nos compétences techniques et d'acquérir une expérience pratique précieuse.
