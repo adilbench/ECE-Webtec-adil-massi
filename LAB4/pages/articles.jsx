@@ -3,8 +3,8 @@ import React from 'react';
 function Articles() {
   return (
     <div>
-      <h1>Articles</h1>
-      {/* Contenu de la page d'accueil */}
+  <p className='italic font-bold'>Texte en italique et en gras.</p>
+
     </div>
   );
 }
