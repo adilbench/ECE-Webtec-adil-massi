@@ -7,6 +7,9 @@ export default function Page() {
         <Link href="/contacts">
           contactez-nous
         </Link>
+        <Link href="/articles">
+          les articles
+        </Link>
       </div>
     );
   }
