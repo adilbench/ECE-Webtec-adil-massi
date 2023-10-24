@@ -19,7 +19,7 @@ Bienvenue à cette séance de travaux pratiques consacrée à l'exploration et �
 
 1. Clonez ce référentiel sur votre ordinateur en utilisant la commande suivante :
 
-git clone https://github.com/M5-ux/ece-webtech-gr06-605
+git clone https://github.com/adilbench/ECE-Webtech-614.git
 
 
 2. Accédez au répertoire du projet : 
